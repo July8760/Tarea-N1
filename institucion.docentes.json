@@ -1,0 +1,54 @@
+[{
+  "_id": {
+    "$oid": "689eae2e7781ba2023995a34"
+  },
+  "nombre": "Julia Cachimuel",
+  "telefono": "0962526936",
+  "genero": "f"
+},
+{
+  "_id": {
+    "$oid": "689eb0e87781ba2023995a35"
+  },
+  "nombre": "Sarina Velasco",
+  "telefono": "0998594322",
+  "genero": "f"
+},
+{
+  "_id": {
+    "$oid": "689eb1367781ba2023995a36"
+  },
+  "nombre": "Samuel Guano",
+  "telefono": "0983684611",
+  "genero": "m",
+  "direccion": "monjas"
+},
+{
+  "_id": {
+    "$oid": "689eb15a7781ba2023995a37"
+  },
+  "nombre": "Oscar Quisaguano",
+  "telefono": "0997087605",
+  "genero": "m",
+  "direccion": "la merced"
+},
+{
+  "_id": {
+    "$oid": "689eb2297781ba2023995a38"
+  },
+  "nombre": "Daniel Giler",
+  "telefono": "0999876432",
+  "genero": "m",
+  "direccion": "san carlos",
+  "email": "daniel@gmail.com"
+},
+{
+  "_id": {
+    "$oid": "689eb2537781ba2023995a39"
+  },
+  "nombre": "Raul Silva",
+  "telefono": "0998765423",
+  "genero": "m",
+  "direccion": "san roque",
+  "email": "raul@gmail.com"
+}]

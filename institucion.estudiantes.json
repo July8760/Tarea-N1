@@ -1,0 +1,16 @@
+[{
+  "_id": {
+    "$oid": "689eb2817781ba2023995a3b"
+  },
+  "nombre": "Ruben Velasco",
+  "telefono": "0984030872",
+  "genero": "m"
+},
+{
+  "_id": {
+    "$oid": "689eb3177781ba2023995a3c"
+  },
+  "nombre": "Juan Parra",
+  "telefono": "0989473393",
+  "genero": "m"
+}]
